@@ -1,5 +1,9 @@
 [
   {
+    "package": "bigD",
+    "oncran": true
+  },
+  {
     "package": "DiagrammeR",
     "oncran": true
   },
