@@ -4,19 +4,7 @@
     "oncran": true
   },
   {
-    "package": "DiagrammeR",
-    "oncran": true
-  },
-  {
-    "package": "DiagrammeRsvg",
-    "oncran": true
-  },
-  {
     "package": "i18n",
-    "oncran": true
-  },
-  {
-    "package": "messaging",
     "oncran": true
   },
   {
