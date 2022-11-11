@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "juicyjuice",
+    "oncran": true
+  },
+  {
     "package": "messaging",
     "oncran": true
   },
