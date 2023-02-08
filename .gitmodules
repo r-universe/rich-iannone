@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bigD"]
-	path = bigD
-	url = https://github.com/rich-iannone/bigd
-	shallow = true
-	registered = true
 [submodule "DiagrammeR"]
 	path = DiagrammeR
 	url = https://github.com/rich-iannone/diagrammer
@@ -21,11 +16,6 @@
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/rich-iannone/i18n
-	shallow = true
-	registered = true
-[submodule "juicyjuice"]
-	path = juicyjuice
-	url = https://github.com/rich-iannone/juicyjuice
 	shallow = true
 	registered = true
 [submodule "messaging"]

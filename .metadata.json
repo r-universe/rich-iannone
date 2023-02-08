@@ -1,9 +1,5 @@
 [
   {
-    "package": "bigD",
-    "oncran": true
-  },
-  {
     "package": "DiagrammeR",
     "oncran": true
   },
@@ -13,10 +9,6 @@
   },
   {
     "package": "i18n",
-    "oncran": true
-  },
-  {
-    "package": "juicyjuice",
     "oncran": true
   },
   {
