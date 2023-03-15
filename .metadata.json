@@ -4,19 +4,11 @@
     "oncran": true
   },
   {
-    "package": "i18n",
-    "oncran": true
-  },
-  {
     "package": "DiagrammeRsvg",
     "oncran": true
   },
   {
-    "package": "omsvg",
-    "oncran": true
-  },
-  {
-    "package": "stationaRy",
+    "package": "i18n",
     "oncran": true
   },
   {
@@ -24,7 +16,15 @@
     "oncran": true
   },
   {
+    "package": "omsvg",
+    "oncran": true
+  },
+  {
     "package": "pointblank",
+    "oncran": true
+  },
+  {
+    "package": "stationaRy",
     "oncran": true
   }
 ]
