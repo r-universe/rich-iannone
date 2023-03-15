@@ -8,19 +8,14 @@
 	url = https://github.com/rich-iannone/diagrammer
 	shallow = true
 	registered = true
-[submodule "DiagrammeRsvg"]
-	path = DiagrammeRsvg
-	url = https://github.com/rich-iannone/diagrammersvg
-	shallow = true
-	registered = true
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/rich-iannone/i18n
 	shallow = true
 	registered = true
-[submodule "messaging"]
-	path = messaging
-	url = https://github.com/rich-iannone/messaging
+[submodule "DiagrammeRsvg"]
+	path = DiagrammeRsvg
+	url = https://github.com/rich-iannone/diagrammersvg
 	shallow = true
 	registered = true
 [submodule "omsvg"]
@@ -28,13 +23,18 @@
 	url = https://github.com/rich-iannone/omsvg
 	shallow = true
 	registered = true
-[submodule "pointblank"]
-	path = pointblank
-	url = https://github.com/rich-iannone/pointblank
-	shallow = true
-	registered = true
 [submodule "stationaRy"]
 	path = stationaRy
 	url = https://github.com/rich-iannone/stationary
+	shallow = true
+	registered = true
+[submodule "messaging"]
+	path = messaging
+	url = https://github.com/rich-iannone/messaging
+	shallow = true
+	registered = true
+[submodule "pointblank"]
+	path = pointblank
+	url = https://github.com/rich-iannone/pointblank
 	shallow = true
 	registered = true

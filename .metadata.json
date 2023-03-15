@@ -4,15 +4,11 @@
     "oncran": true
   },
   {
-    "package": "DiagrammeRsvg",
-    "oncran": true
-  },
-  {
     "package": "i18n",
     "oncran": true
   },
   {
-    "package": "messaging",
+    "package": "DiagrammeRsvg",
     "oncran": true
   },
   {
@@ -20,11 +16,15 @@
     "oncran": true
   },
   {
-    "package": "pointblank",
+    "package": "stationaRy",
     "oncran": true
   },
   {
-    "package": "stationaRy",
+    "package": "messaging",
+    "oncran": true
+  },
+  {
+    "package": "pointblank",
     "oncran": true
   }
 ]
