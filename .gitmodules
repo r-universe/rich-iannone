@@ -18,6 +18,11 @@
 	url = https://github.com/rich-iannone/i18n
 	shallow = true
 	registered = true
+[submodule "intendo"]
+	path = intendo
+	url = https://github.com/rich-iannone/intendo
+	shallow = true
+	registered = true
 [submodule "messaging"]
 	path = messaging
 	url = https://github.com/rich-iannone/messaging

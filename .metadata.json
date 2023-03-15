@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "intendo",
+    "oncran": true
+  },
+  {
     "package": "messaging",
     "oncran": true
   },
