@@ -20,9 +20,6 @@
 [submodule "omsvg"]
 	path = omsvg
 	url = https://github.com/rich-iannone/omsvg
-[submodule "pointblank"]
-	path = pointblank
-	url = https://github.com/rich-iannone/pointblank
 [submodule "stationaRy"]
 	path = stationaRy
 	url = https://github.com/rich-iannone/stationary
